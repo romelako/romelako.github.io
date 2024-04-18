@@ -20,7 +20,7 @@ body {
 
 .hero-section__text-section h2 {
     color: var(--primary-accent-color);
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 /* Stats Section */
@@ -201,10 +201,6 @@ body {
     text-align: center;
 }
 
-#testimonial-section h2 {
-    color: var(--primary-accent-color);
-}
-
 .carousel-card {
     color: var(--primary-bg-color);
     background-color: white;
@@ -252,7 +248,6 @@ body {
 }
 
 #faq-section h2 {
-    color: var(--primary-accent-color);
     margin-bottom: 20px;
     text-align: center;
 }
@@ -267,7 +262,6 @@ body {
 }
 
 #footer h2 {
-    color: var(--primary-accent-color);
     text-align: center;
 }
 
